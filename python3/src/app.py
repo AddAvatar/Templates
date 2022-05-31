@@ -37,3 +37,4 @@ if __name__ == '__main__':
     for option, value in vars(flags).items():
         logger.info("    {} -> {}".format(option, value))
     main(**vars(flags))
+    logger.info("Hello Test")
