@@ -1,1 +1,1 @@
-{"name":"python3","environmentVariables":[],"params":[],"title":"python3"}
+{"name":"python3","environmentVariables":[],"params":["--debug","--verbose"],"title":"python3","id":0}
